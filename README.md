@@ -2,8 +2,8 @@
 Use docker to set up a simple LAMP environment 
 
 ## set up on your local disk
-$git clone https://github.com/patrickhui/docker-lamp.git 
-$cd docker-lamp 
+$git clone https://github.com/patrickhui/docker-lamp.git \
+$cd docker-lamp \
 $docker-compose up -d 
 
 ### put your web app under **www/html**
